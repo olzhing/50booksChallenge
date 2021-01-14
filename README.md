@@ -1,4 +1,4 @@
 50 books challenge
 
 
-Mini page with usage HTML &amp; CSS
+Mini project with usage HTML &amp; CSS
