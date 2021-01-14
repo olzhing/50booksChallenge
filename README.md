@@ -1,4 +1,4 @@
 50 books challenge
 
 
-Pet project with usage HTML &amp; CSS
+Mini page with usage HTML &amp; CSS
